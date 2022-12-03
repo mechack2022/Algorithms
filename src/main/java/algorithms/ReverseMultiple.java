@@ -24,4 +24,3 @@ public class ReverseMultiple {
         return newArray;
     }
 }
-
