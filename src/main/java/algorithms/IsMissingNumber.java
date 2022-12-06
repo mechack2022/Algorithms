@@ -34,7 +34,7 @@ public class IsMissingNumber {
 
     public static void main(String[] args) {
         System.out.println(isMissingNumber(new int[]{6, 1, 2, 8, 3, 4, 7, 10, 5}, 10));
-        System.out.println(new );
+
     }
 
     public static int isMissingNumber(int[] arr, int N) {
@@ -49,5 +49,23 @@ public class IsMissingNumber {
         }
         int missingNumber = expectedSum - sum_of_arr;
         return missingNumber;
+    }
+
+    public static class LastSurvivor {
+        public static void main(String[] args) {
+            lastSurvivor(new int[]{0, 1}, "abk");
+        }
+
+        public static void lastSurvivor(int[] arr, String str) {
+            int arrLength = 0;
+            StringBuilder sb = new StringBuilder(str);
+            arrLength = arr.length;
+            //iterate the arr;
+            for (int i = 0; i < arrLength; i++) {
+                sb.deleteCharAt(i);
+            }
+            System.out.println(sb);
+
+        }
     }
 }
