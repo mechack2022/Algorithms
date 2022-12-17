@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5a56fa76-99d3-4e4d-a28b-d7cb2a711c9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/IsMissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithms/IsMissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithms/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/SetImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/SetImp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +35,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/decagon/Documents/gboyegunTaiwoProjects/ALGORITHMS"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseMultiple">
+  <component name="RunManager">
     <configuration name="LastSurvivor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LastSurvivor" />
       <module name="ALGORITHMS" />
@@ -100,5 +102,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithms/RotateArray.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithms/RotateArray.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
